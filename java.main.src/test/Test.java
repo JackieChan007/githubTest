@@ -6,7 +6,7 @@ public class Test {
     {
 
 
-        int a;
+        int a=2;
         int b;
     }
 }
